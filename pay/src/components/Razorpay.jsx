@@ -11,12 +11,6 @@ export function Razorpay(){
 
         setTotal(total=>total+price);
 
-        // let li=document.createElement("li");
-        // li.innerText=`${item} - ${price}₹`;
-
-        // document.getElementById("list").appendChild(li);
-
-        // document.getElementById("total").innerText=setTotal;
     };
     return(
         <div>
